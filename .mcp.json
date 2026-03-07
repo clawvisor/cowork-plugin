@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "clawvisor": {
+      "type": "http",
+      "url": "https://api.clawvisor.com/mcp"
+    }
+  }
+}

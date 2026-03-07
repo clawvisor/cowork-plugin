@@ -1,0 +1,14 @@
+{
+  "name": "clawvisor",
+  "version": "0.1.0",
+  "description": "Route actions through Clawvisor for credential vaulting, task-scoped authorization, and human approval flows. Access Gmail, Calendar, Drive, GitHub, Slack, Notion, Linear, and more — without holding credentials.",
+  "author": {
+    "name": "Clawvisor"
+  },
+  "config": {
+    "CLAWVISOR_URL": {
+      "description": "Your Clawvisor instance URL (e.g. http://localhost:25297 or https://your-instance.run.app)",
+      "required": true
+    }
+  }
+}
